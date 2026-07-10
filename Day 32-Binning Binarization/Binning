@@ -1,0 +1,75 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyP1vO9maBnHkgBswdRXoiXv",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Arooj-06/Machine-Learning/blob/main/Day%2032-Binning%20Binarization/Binning\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "oZ0nl6ExVfmm"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## **ENCODING NUMERICAL DATA**"
+      ],
+      "metadata": {
+        "id": "g-9dseIOWort"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "**numerical data -----> categorial data**"
+      ],
+      "metadata": {
+        "id": "z5rSqppZWu7F"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "**two way:1.Discretization/Binnning   2.Binarization**"
+      ],
+      "metadata": {
+        "id": "wS7C9YhvJ9Jx"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "r4SPtFtHKFEy"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
